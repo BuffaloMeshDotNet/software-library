@@ -10,3 +10,15 @@
 # Copyright (c) 2015 by Corey Reichle.  Released under GPL 3 or later.
 #
 #################################################################
+
+cat << _EOF
+This script seeds a Linux machine to host a software library.
+
+This script must be executed using sudo or as root, as it's writing to the
+/var/www/ directory.
+
+It *should* work on any linux distro, but there are some pre-reqs:
+* Apache must be installed, and configured
+* PHP must be installed, and configured
+
+_EOF
