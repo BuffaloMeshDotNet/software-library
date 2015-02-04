@@ -1,0 +1,6 @@
+#The format for this file is below.  All columns are tab delim'd
+#file_name	category	file_url
+#Categories are: Productivity, Utility, Entertainment, and Communication.  However, the script will build a list of unique categories in this file, but let's keep it sane, m'kay?
+Open Office	Producivity	http://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.1/binaries/en-US/Apache_OpenOffice_4.1.1_Win_x86_install_en-US.exe?r=&ts=1423072909&use_mirror=softlayer-dal
+Portable Apps	Utility	http://downloads.sourceforge.net/project/portableapps/PortableApps.com%20Platform/PortableApps.com_Platform_Setup_12.0.5.paf.exe?r=http%3A%2F%2Fportableapps.com%2Fdownload&ts=1423072951&use_mirror=iweb
+Calibre eBook Reader	Entertainment	http://www.fosshub.com/Calibre.html/calibre-2.18.0.msi
